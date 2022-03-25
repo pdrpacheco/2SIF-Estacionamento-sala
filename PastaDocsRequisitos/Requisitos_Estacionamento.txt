@@ -1,0 +1,19 @@
+Produto A - Controle de entrada e saída
+
+
+
+Produto B - Aplicativo que mostra vagas disponíveis
+
+
+
+Produto C - Controle de preços por tipo de veículo e horário
+
+
+Produto D - Possibilidade de ativação de vouchers e cupons de desconto
+
+
+
+Produto E - Cadastro de avarias para previnir fraudes  	
+
+
+
