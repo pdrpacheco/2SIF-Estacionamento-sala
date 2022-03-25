@@ -1,0 +1,31 @@
+ Controle de entrada e saída
+- Monitoramento de cancelas com sensores 
+
+ Aplicativo que mostra vagas disponíveis
+- Mostra cada vaga disponível através de sensores em tempo real
+
+
+ Controle de preços por tipo de veículo e horário
+- Analisa o cadastro do usuário para gerar um preço compatível 
+
+ Registro de plano mensalidade com desconto
+- Compatibilidade com sistemas de descontos 
+
+ Cadastro de avarias para previnir fraudes  	
+- Analisa o veículo no momento da entrada e saída para evitar tentativas de golpe envolvendo danos no veículo
+
+-Requisitos(sala)
+Configuração de perfis
+Terminal de autoatendimento para pagamento
+Abertura e fechamento de cancela comandado pelo sistemas
+Calendario de promoções
+Relatório de pagamentos
+Acréscimo de serviços como lava-jato, lava-rápido, cera, polimento
+Controle de rotativos, mensalistas
+Saída controlada por codígo de barra
+Backup automatico de dados
+Vagas por app mobile
+Envios de recibo por email
+Detecção e registro de placas
+Emissão de vouchers de descontos
+Controle de pagamentos por multiplos meios
